@@ -3,12 +3,7 @@
 A collection of scientific methods, processes, algorithms, and systems to build stories & models. This roadmap contains 16 Chapters, whether you are a fresher in the field or an experienced professional who wants to transition into Data Science & AI
 
 
-
-<img src="https://github.com/hemansnation/Data-Science-ML-Full-Stack/blob/master/images/components.png" />
-
 ### The‌ ‌Roadmap‌ ‌is‌ ‌divided‌ ‌into‌ ‌16 ‌Sections‌
-
-Duration:‌ ‌(11 ‌Months)‌ ‌and many more hours for practice and project building.
 
 ### Phase 1
 
