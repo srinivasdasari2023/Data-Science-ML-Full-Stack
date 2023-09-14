@@ -394,45 +394,7 @@ Robotics Dataset Collections.
 ### Reinforcement Learning
 
 
-# Projects
 
-[Here is the list of project ideas](https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack/tree/master/projects)
-
-
-# Data Science ML Full Stack -> [Notion Template](https://god-level-python.notion.site/Data-Science-ML-Full-Stack-Roadmap-05e6c16389c845d1a438ed4cff2b9952)
-
-### Join the WhatsApp Community Group
-https://chat.whatsapp.com/BSUPbYhzzM1BcJplcTTIxb
-
-
-# Socials
-
-
-### Join Telegram for Data Science ML AI Resources:
-https://t.me/+sREuRiFssMo4YWJl
-
-### Connect with me on these platforms:
-LinkedIn: https://www.linkedin.com/in/hemansnation/
-
-YouTube: https://www.youtube.com/@Himanshu-Ramchandani
-
-Twitter: https://twitter.com/hemansnation
-
-GitHub: https://github.com/hemansnation
-
-Instagram: https://www.instagram.com/masterdexter.ai/
-
-### AI Jobs LinkedIn Group: 
-https://www.linkedin.com/groups/12540639/
-
-### Medium Blog:
-https://medium.com/@hemansnation
-
-### Notes on Data, Product, and AI - Newsletter: 
-https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7014799989251956736
-
-
-### Any Query?
 
 Email Me Here: connect@himanshuramchandani.co
 
