@@ -378,15 +378,7 @@ Robotics Dataset Collections.
  
 
 
-# Research Starting Point
 
-### Machine Learning
-1. [Introduction to Statistical Learning](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf)
-2. 
-
-### Deep Learning
-
-### Reinforcement Learning
 
 
 
