@@ -368,17 +368,6 @@ Robotics Dataset Collections.
 
 
 
-### Join Telegram for Data Science ML AI Resources:
-https://t.me/+sREuRiFssMo4YWJl
-
-### Connect with me on these platforms:
-LinkedIn: https://www.linkedin.com/in/hemansnation/
-
-Twitter: https://twitter.com/hemansnation
-
-GitHub: https://github.com/hemansnation
-
-Instagram: https://www.instagram.com/masterdexter.ai/
 
 
 ### Are you a professional?
